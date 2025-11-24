@@ -21,6 +21,13 @@ body {
     background-position: center;
 }
 
+.perfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 15px;
+}
+
 .portfolio {
     display: flex;
     margin-top: 15px;
